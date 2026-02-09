@@ -7,9 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 header:
-  overlay_image: /images/avatar.png  # (可选) 网页顶部的背景图
-  og_image: /images/avatar.png       # 【关键】告诉 Google 搜索和微信分享用这张图
-  teaser: /images/avatar.png         # 站内缩略图
+  og_image: /images/profile.png       # 【关键】告诉 Google 搜索和微信分享用这张图
+  teaser: /images/profile.png         # 站内缩略图
 ---
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
