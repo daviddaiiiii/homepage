@@ -102,7 +102,7 @@ Feel free to reach out if you'd like to discuss research or explore potential co
 <div id="publications-wrapper">
   <div id="filter-container"></div>
   
-  <div class='paper-box floating-card' data-tags="First/Co-First Author, Representation Learning, NeuroAI, CAAI-A">
+  <div class='paper-box floating-card' data-tags="First/Co-First Author, Representation Learning, NeuroAI, CCF-A">
     <div class='paper-box-image'>
       <div class="badge pulse-accent">ICLR 2026 Poster</div>
       <img src='images/spikegen.png' alt="SpikeGen Overview" width="100%">
@@ -118,7 +118,7 @@ Feel free to reach out if you'd like to discuss research or explore potential co
     </div>
   </div>
   
-  <div class='paper-box floating-card' data-tags="Robotics, NeuroAI, CAAI-A">
+  <div class='paper-box floating-card' data-tags="Robotics, NeuroAI, CCF-A">
     <div class='paper-box-image'>
       <div class="badge pulse-accent">ICLR 2026 Poster</div>
       <img src='images/spikepingpong.png' alt="SpikePingpong Overview" width="100%">
